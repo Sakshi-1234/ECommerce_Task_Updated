@@ -15,6 +15,20 @@ Our goal is to implement an eCommerce application.
 Also, add very short info for the following to your `README`:
 
 - Describe all the application functionalities:
+- Login Page:
+
+Users can access their accounts by logging in securely.
+Product Browsing:
+
+Users can browse a wide range of products available on the platform.
+Cart Management:
+
+Add Products: Users can add products to their shopping cart.
+View Cart: Users can view the contents of their shopping cart.
+Edit Cart: Users can perform various actions on the cart, including clearing it, reducing or increasing the quantity of items.
+Total Amount Display:
+
+The web app displays the total amount of items in the cart at the bottom, giving users a clear view of their current purchase total.
       -The web app has the following functionality:
         1)It has login page
         2)Users can view the products and add the products to the cart
