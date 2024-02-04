@@ -34,6 +34,7 @@ Yes:
 
   
 - What would you do differently if you were allocated more time?
+
 1)More good responsive UI
 2)Would have added authentication
 3)Compress images and minimize HTTP requests.
