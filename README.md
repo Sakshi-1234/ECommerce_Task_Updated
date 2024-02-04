@@ -48,17 +48,14 @@ The user of this react application should be able to view all the products. The 
 
 ### Home page
 
-<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/52570524/180701523-b679c753-68ff-47f1-9a1b-f4cc04d88fea.png">
+![image](https://github.com/Sakshi-1234/ECommerce_Task_Updated/assets/77981502/d8d08aaf-36ab-46b8-a9aa-620b6366b162)
 
-### Product detail page
 
-<img width="675" alt="Screenshot 2022-07-24 at 10 53 17 AM" src="https://user-images.githubusercontent.com/52570524/180701655-7c3d3120-ff81-445a-81d9-b2152db8a776.png">
 
 ### Cart page
 
-<img width="1415" alt="Screenshot 2022-07-24 at 10 50 18 AM" src="https://user-images.githubusercontent.com/52570524/180701661-a587033d-4616-40f8-9260-dfd3e8b97152.png">
+![image](https://github.com/Sakshi-1234/ECommerce_Task_Updated/assets/77981502/3e7a4ad1-b6cb-4fcd-b88e-0b9a7bc53ea0)
 
-<img width="1472" alt="Screenshot 2022-07-24 at 10 51 16 AM" src="https://user-images.githubusercontent.com/52570524/180701674-31c7e11c-56b3-4f24-83c4-e9d582c4b3f8.png">
 
 ## API Usage
 
