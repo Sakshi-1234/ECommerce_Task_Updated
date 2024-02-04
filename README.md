@@ -6,32 +6,30 @@ To complete this assessment, you will need to use this [Ecommerce-boilerplate](h
 
 The purpose of this assessment is to assess your **skills and approach to composing a simple web app** given an API feed.
 
-## What to do?
+## What have we done?
 
-Your goal is to implement an eCommerce application. The CSS framework/library is totally up to you.
+Our goal is to implement an eCommerce application. 
 
-Although it's a very basic exercise, we will be looking for simple, well-designed, well-commented, and tested code in the submission.
 
-Please include a `README` with setup instructions and any other documentation you created as part of your solution.
 
 Also, add very short info for the following to your `README`:
 
-- Describe all the application functionalities
+- Describe all the application functionalities:
+      The web app has the following functionality:
+        1)It has login page
+        2)Users can view the products and add the products to the cart
+        3)User can view the cart,edit the cart i.e clear cart,reduce items,increase items
+        4)Total amount is displayed at the bottom of the cart
 - Are there any improvements you could make to your submission?
+      Yes
+        1)Responsive design: Ensure the website works seamlessly on various devices and screen sizes.
+        2)Offer various payment methods, including credit cards, digital wallets, and payment gateways.
+        3)Provide live chat, email, or phone support for customers.
 - What would you do differently if you were allocated more time?
+        1)More good responsive UI
+        2)Would have added authentication
+        3)Compress images and minimize HTTP requests.
 
-Once you complete implementation, please add the link to the hosted repository (e.g. Github). Alternatively, you may submit your code as a ZIP file too.
-
-(NOTE: You have to use the latest version of v18 and react-router-dom v6)
-
-## How should the application work?
-
-The user of this react application should be able to view all the products. The application should have the following workflow,
-
-1. Create the login/register functionality.
-2. Once the user is authenticated
-3. Users can add the products to the cart page
-4. Also user can add their favourite products
 
 ## Development Setup
 
