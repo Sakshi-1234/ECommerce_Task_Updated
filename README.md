@@ -26,14 +26,17 @@ Edit Cart: Users can perform various actions on the cart, including clearing it,
 Total Amount Display:
 
 - Are there any improvements you could make to your submission?
-      Yes
-        1)Responsive design: Ensure the website works seamlessly on various devices and screen sizes.
-        2)Offer various payment methods, including credit cards, digital wallets, and payment gateways.
-        3)Provide live chat, email, or phone support for customers.
+  Yes:
+  
+  1)Responsive design: Ensure the website works seamlessly on various devices and screen sizes.
+  2)Offer various payment methods, including credit cards, digital wallets, and payment gateways.
+  3)Provide live chat, email, or phone support for customers.
+
+  
 - What would you do differently if you were allocated more time?
-        1)More good responsive UI
-        2)Would have added authentication
-        3)Compress images and minimize HTTP requests.
+  1)More good responsive UI
+  2)Would have added authentication
+  3)Compress images and minimize HTTP requests.
 
 
 ## Development Setup
