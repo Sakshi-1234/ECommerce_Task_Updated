@@ -15,11 +15,11 @@ Our goal is to implement an eCommerce application.
 Also, add very short info for the following to your `README`:
 
 - Describe all the application functionalities:
-      The web app has the following functionality:
-        1)It has login page
-        2)Users can view the products and add the products to the cart
-        3)User can view the cart,edit the cart i.e clear cart,reduce items,increase items
-        4)Total amount is displayed at the bottom of the cart
+      -The web app has the following functionality:
+        -1)It has login page
+        -2)Users can view the products and add the products to the cart
+        -3)User can view the cart,edit the cart i.e clear cart,reduce items,increase items
+        -4)Total amount is displayed at the bottom of the cart
 - Are there any improvements you could make to your submission?
       Yes
         1)Responsive design: Ensure the website works seamlessly on various devices and screen sizes.
