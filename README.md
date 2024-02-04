@@ -43,8 +43,8 @@ The user of this react application should be able to view all the products. The 
 ## This project's user interface should like this.
 
 ### Login/Register page
+![image](https://github.com/Sakshi-1234/ECommerce_Task_Updated/assets/77981502/d13ae334-7cfa-468d-bc5e-5dac9bccc8f2)
 
-<img width="1512" alt="Screenshot 2022-07-24 at 10 44 13 AM" src="https://user-images.githubusercontent.com/52570524/180701451-5ccce009-0384-426c-b1bc-d7536fd7b142.png">
 
 ### Home page
 
